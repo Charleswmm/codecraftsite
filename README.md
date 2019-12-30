@@ -1,6 +1,6 @@
 # Code Craft Website
 
-A learning exersize
+A learning exercise
 
 Contributors:
 
